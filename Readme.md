@@ -16,3 +16,4 @@
 - :heavy_check_mark: **Day 3** - Spark RDD, countByValue, getNumPartitions, repartition, saveAsTextFile
 - :heavy_check_mark: **Day 4** - Mini project summarizing D1, D2 & D3
 - :heavy_check_mark: **Day 5** - Creating DFs, infer schema, DF from RDD, Select DF, withColumn, Df filtering
+- :heavy_check_mark: **Day 6** - DFs QUIZ, Day 5 revision
