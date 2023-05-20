@@ -19,4 +19,5 @@
 - :heavy_check_mark: **Day 6** - DFs QUIZ, Day 5 revision
 - :heavy_check_mark: **Day 7** - DFs Distinct, Sort, OrderBy
 - :heavy_check_mark: **Day 8** - DFs GroupBy, WordCount
-- :heavy_check_mark: **Day 9** - DFs_RDD_SQL
+- :heavy_check_mark: **Day 9** - DFs RDD, SQL
+- :heavy_check_mark: **Day 10** - DFs QUIZ of the full DFs topic
